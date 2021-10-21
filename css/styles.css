@@ -1,0 +1,10 @@
+body{
+  background-image: url("https://scienceblogs.com/files/startswithabang/files/2012/07/triangle.001.jpg");
+  color: white;
+  background-size: cover;
+}
+
+h1 {
+  margin: 1em 0;
+}
+
